@@ -59,3 +59,18 @@ print("Find the Outliers is age")
 outliers=df[df['Age']>100]
 print("Found Outliers {s} :")
 print(outliers)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
